@@ -1,5 +1,5 @@
 {
-  "name": "d3-react-examples",
+  "name": "react-d3-examples",
   "version": "0.1.0",
   "description": "Examples of how to use D3 with React",
   "main": "./src/index.js",
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/neilff/d3-react-examples"
+    "url": "git://github.com/neilff/react-d3-examples"
   },
   "license": "MIT",
   "devDependencies": {
