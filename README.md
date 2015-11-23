@@ -1,4 +1,4 @@
-# d3-rect-examples
+# react-d3-examples
 
 > Examples of how to use D3 with React
 
